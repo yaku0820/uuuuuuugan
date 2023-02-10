@@ -1,0 +1,131 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+.wrapper {
+	width: 100%;
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #161d29;
+}
+
+.container {
+	width: 2000px;
+	border-radius: 10px;
+	box-shadow: var(--box-shadow);
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	background-color: white;
+}
+
+.head {
+	display: flex;
+	align-content: center;
+	height: 80px;
+	background-color: black;
+	justify-content: space-around;
+}
+
+.logo {
+	width: 100px;
+	object-fit: contain;
+	margin-left: 15px;
+}
+
+.body {
+	height: 500px;
+	display: flex;
+	background-color: #161d29;
+}
+
+.table_container {
+	flex: 3;
+	position: relative;
+
+}
+
+.filter_container {
+	flex: 1;
+}
+
+h1{
+	color: white;
+}
+.table_container .styles_movie__j8pte{
+	background-color: #161d29;
+}
+.table_container .styles_heading__uMHoe{
+	background-color: #161d29;
+	/* color: white; */
+}
+.table_container .styles_title_tab__PtVO4{
+	color: white;
+}
+.table_container .styles_genre_tab__Meciw{
+	color: white;
+}
+.table_container .styles_rating_tab__Pdnhk{
+	color: #ffffff;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.filter_container .styles_container__GIQyT{
+	background-color: #161d29;
+}
+.filter_container .styles_genre__YQ3PI{
+	color: white;
+}
+.wrapper .container .head .styles_search__T8XpQ{
+	width: 20%;
+	border: none;
+	outline: none;
+	border-radius: 25px;
+}
+.filter_container .styles_container__Y-TPE{
+	background-color: #161d29;
+}
+.filter_container .styles_select__4o7lb{
+	background-color: #161d29;
+}
+.filter_container .styles_up_arrow__FG1sC{
+	color: white;
+}
+.filter_container .styles_down_arrow__puvS4{
+	color: white;
+}
+.filter_container .styles_sort_by__P1dqV{
+	color: white;
+}
+.filter_container .styles_select__4o7lb{
+	color: white;
+}
+.bi{
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	left: 40px;
+	top: 90px;
+}
+
+.table_container .styles_heading__GRpW6{
+	background-color: #161d29;
+}
+.table_container .styles_title_tab__Fz1Wo{
+	color: white;
+}
+.table_container .styles_genre_tab__Y9IP1{
+	color: white;
+}
+.table_container .styles_rating_tab__9xYIu{
+	color: white;
+}
+.styles_movie__CiQ78{
+	background-color: #161d29;
+}
+
+
+.filter_container .styles_container__oXkVK{
+	background-color: #161d29;
+}
